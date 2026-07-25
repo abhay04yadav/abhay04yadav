@@ -73,7 +73,7 @@
 
 An LLM-powered interface that converts plain-English business questions into **validated SOQL queries** — no query syntax needed. Uses schema-aware prompting with validation guardrails to block unsafe queries, and renders results as live dashboard widgets in **under 10 seconds**.
 
-<a href="https://github.com/abhay04yadav">🔗 View Repo</a>
+<a href="https://github.com/abhay04yadav/Salesforce-Report-Dashboard">🔗 View Repo</a>
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +83,7 @@ An LLM-powered interface that converts plain-English business questions into **v
 
 A full-stack **RAG** system that answers questions over uploaded PDFs with **page-level source citations**. Pipeline: PyMuPDF extraction → 500-token chunking → 384-dim embeddings in pgvector → top-K cosine search, backed by a 3-tier Redis cache + JWT auth.
 
-<a href="https://github.com/abhay04yadav">🔗 View Repo</a>
+<a href="https://github.com/abhay04yadav/Sourced-RAG-Document-Q-A">🔗 View Repo</a>
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ A full-stack **RAG** system that answers questions over uploaded PDFs with **pag
 
 A browser extension that consolidates **11 independent Salesforce permission sources** into one unified view. A wave-based parallel fetch pipeline cut resolution time from **~8–10s to under 2s**, with a 3-layer caching strategy reducing repeat-query latency by **~95%**.
 
-<a href="https://github.com/abhay04yadav">🔗 View Repo</a>
+<a href="https://github.com/abhay04yadav/Salesforce-Permission-Explorer">🔗 View Repo</a>
 
 </td>
 <td width="50%" valign="top">
