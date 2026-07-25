@@ -116,20 +116,17 @@ A browser extension that consolidates **11 independent Salesforce permission sou
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhay04yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhay's GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay04yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhay04yadav&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay04yadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay04yadav&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhay04yadav&theme=tokyonight" alt="Most Used Language" />
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Abhay04y?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhay04yadav&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
