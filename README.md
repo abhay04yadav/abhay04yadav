@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+LLM+%2F+RAG+applications;Backend+Developer+%7C+Python+%26+FastAPI;CS+Undergrad+%40+GL+Bajaj+'27;300%2B+DSA+problems+solved+in+C%2B%2B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+LLM+%2F+RAG+applications;Backend+Developer+%7C+Python+%26+FastAPI;CS+Undergrad+%40+GL+Bajaj+'27;400%2B+DSA+problems+solved+in+C%2B%2B" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhay04yadav&label=Profile%20views&color=6c63ff&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhay04yadav&label=Profile%20views&color=1f6feb&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -36,10 +36,10 @@
 
 **GenAI / LLM**
 <p>
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Semantic_Search-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Search-1F6FEB?style=for-the-badge&logoColor=white" />
 </p>
 
 **Backend & Infra**
@@ -116,17 +116,11 @@ A browser extension that consolidates **11 independent Salesforce permission sou
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay04yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhay04yadav&theme=tokyonight" alt="GitHub Stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay04yadav&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay04yadav&theme=tokyonight" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhay04yadav&theme=tokyonight" alt="Most Used Language" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhay04y?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img width="60%" src="https://leetcard.jacoblin.cool/Abhay04y?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
