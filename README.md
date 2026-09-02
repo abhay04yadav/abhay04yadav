@@ -190,13 +190,13 @@ Alongside that, more time with MCP past the basics, and reading on calibration a
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhay04yadav&show_icons=true&hide_border=true&hide=issues&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abhay04yadav&show_icons=true&hide_border=true&hide=issues" width="49%" alt="GitHub stats" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhay04yadav&show_icons=true&hide_border=true&hide=issues" width="49%" alt="GitHub stats" /> -->
   </picture>
   <img src="https://streak-stats.demolab.com?user=abhay04yadav&theme=github-dark-blue&hide_border=true" width="49%" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay04yadav&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay04yadav&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity" /> -->
 </p>
 
 ---
